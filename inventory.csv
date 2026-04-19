@@ -1,0 +1,13 @@
+id,name,quantity,price,category,extra
+1,Widget A,50,9,99,General
+2,Widget B,3,14,99,General
+3,USB Cable,120,4,49,General
+4,Fresh Milk,30,2,49,Perishable,2025-08-01
+5,Greek Yoghurt,4,3,99,Perishable,2025-07-15
+6,Office Chair,8,149,99,General
+7,Desk Lamp,2,34,95,General
+8,Notebook (A4),200,1,25,General
+9,Ballpoint Pen,500,0,49,General
+10,Hand Sanitizer,5,5,99,General
+11,Mouse,150,350,00,General
+12,Sasko(Brown Bread),200,20,00,Perishable,2026-04-20
