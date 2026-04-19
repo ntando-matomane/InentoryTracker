@@ -1,2 +1,2 @@
 # InentoryTracker
-Tracking system created using java
+A Java-based command-line Inventory Tracker that demonstrates core OOP principles — encapsulation, inheritance, and polymorphism — through a structured multi-class design including support for both general and perishable items. It features a menu-driven CLI interface with full CRUD operations, search, sorting, and reporting, backed by CSV file persistence to retain data across application runs.
